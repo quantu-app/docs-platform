@@ -1,401 +1,225 @@
-# QUANTU.APP Privacy Statement
+# Privacy Policy
 
-QUANTU takes your privacy seriously and you can read this document to find out how we use your data. By using the quantu.app website, or any of our mobile applications (such as are available via the App Store and Google Play Store), and any related services and/or features you acknowledge that you accept the practices and policies outlined in this Privacy Statement.
+Last updated: January 15, 2022
 
-## 2. What Does This Privacy Statement Cover?
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
-This Privacy Statement covers QUANTU's treatment of personally identifiable information (\"Personal Information\") that QUANTU gathers when you access/use the Service.
+We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the [Privacy Policy Template](https://www.freeprivacypolicy.com/blog/sample-privacy-policy-template/).
 
-## 3. What Personal Information Does QUANTU Collect?
+# Interpretation and Definitions
 
-QUANTU collects information you voluntarily submit to the Service, such as, the information we collect when you register for an account: your first name, last name, email address, date of birth, place of residence, etc.
+## Interpretation
 
-Information you elect to submit to the Service in a public or quasi-public manner may be disclosed to other users of the Application or the general public (\"User Submission(s)\"). For example, if you create a comment on a message board that includes any personal information, such information will be made publicly available. We endeavor to make sure the Service\'s functionality puts you on reasonable notice as to the scope of an intended submission.
+The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
-In addition, we may automatically receive and store certain, anonymous types of information whenever you interact with the Service. Such information may include the user's IP address, domain server, and type of Internet browser. This information helps us, among other things, analyze trends and administer the Service. This information is anonymous and contains no personally identifiable data.
+## Definitions
 
-## 4. What about children?
+For the purposes of this Privacy Policy:
 
-The safety and privacy of children is extremely important to us. If you are a resident of the EU, United Kingdom, Lichtenstein, Norway, or Iceland, then you must be 16 years old or older to use the Services in
-any way. Otherwise, every user of the Service must be 13 years of age or older. Any person that does not meet the foregoing age requirements is a \"Minor\". Minors are prohibited from signing up or using the Service in any way. If you are a Minor, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a Minor, we will delete that information as quickly as possible. If you believe that a Minor may have provided us personal information, please contact us. We reserve the right to require any user to verify that the user is not a Minor, and if a user does not provide such verification in a timely manner, we will terminate the user\'s account and delete all personally identifiable information displaying on the site and collected from such user.
+- __Account__ means a unique account created for You to access our Service or parts of our Service.
 
-## 5. How does QUANTU use the information it collects?
 
-- Provide the Service: Your information will be used primarily to provide you with the Service.
-- Improve the Service: Your information may be used by us internally to improve the Service and develop new products, services and features.
-- Other Uses: Your information may also be used by us as set forth in the next section.
+- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to QUANTU.
 
-## 6. Will QUANTU Share Any of the Personal Information it Receives?
 
-To the limited extent we collect Personal Information, we neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below.
 
-*Recipient of User Submissions:* As mentioned above - your User Submissions may be shared in a public or quasi-public manner.
+- __Cookies__ are small files that are placed on Your computer, mobile device or any other device by a website, containing the details of Your browsing history on that website among its many uses.
 
-* Service Providers and Agents:* We employ other companies and people to perform tasks on our behalf. For example, we may decide to use a third party payment processing company to process payments you make through the Service. In addition, parts of the Service may be hosted by a third party on our behalf. Your information may be accessed by such providers/agents, in the event that we need to share your information with them to provide our services or customer support to you. Unless we tell you differently, QUANTU's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us.
+- __Country__ refers to: Georgia,  United States
 
-*Business Transfers:* In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if QUANTU, or substantially all of its assets were acquired, or in the unlikely event that QUANTU goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of QUANTU may continue to use your Personal Information as set forth in this policy.
+- __Device__ means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
-*Protection of QUANTU and Others:* We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of QUANTU, our employees, our users, or others.
 
-*With Your Consent:* Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+- __Personal Data__ is any information that relates to an identified or identifiable individual.
 
-## 7. Conditions of Use
 
-If you decide to access or use the Service, such access and use and any possible dispute over privacy is subject to this Privacy Statement and our Terms of Use (located on our website).
 
-## 8. Third Party Websites/Services
-
-The Site may permit you to link to other websites on the Internet, and other websites may contain links to the Site. These other websites are not under QUANTU's control, and such links do not constitute an endorsement by QUANTU of those other websites or the services offered through them. The privacy and security practices of websites linked to or from the Service are not covered by this Privacy Statement, and QUANTU is not responsible for the privacy or security practices or the content of such websites.
 
-## 9. Opting out of all future emails
-
-If you would like to stop receiving email from QUANTU, simply visit the Email section of your Account settings and uncheck any and all boxes.
-
-## 10. Privacy Shield
-
-The Services are hosted and operated in the United States (\"U.S.\")
-through QUANTU and its service providers, and if you do not reside in
-the U.S., laws in the U.S. may differ from the laws where you reside. By
-using the Services, you acknowledge that any Personal Data about you,
-regardless of whether provided by you or obtained from a third party, is
-being provided to QUANTU in the U.S. and will be hosted on U.S.
-servers, and you authorize QUANTU to transfer, store and process your
-information to and in the U.S., and possibly other countries. You hereby
-consent to the transfer of your data to the U.S. pursuant to EU-US and
-Swiss--US Privacy Shield Framework, the details of which are further set
-forth below.
-
-QUANTU has certified to the EU.-U.S. and Swiss--US Privacy Shield
-Framework set forth by the U.S. Department of Commerce regarding the
-collection and use of Personal Data transferred from the EU and
-Switzerland. For more information about the Privacy Shield Program, and
-to view QUANTU\'s certification, please visit
-][[www.privacyshield.gov](https://www.google.com/url?q=https://www.privacyshield.gov/&sa=D&source=editors&ust=1641671077768000&usg=AOvVaw3GkhxDWWgYP7H-ffBbBo9N)][.
-][QUANTU][ is committed to the Privacy Shield Principles of
-(1) notice, (2) consent, (3) accountability for onward transfer, (4)
-security, (5) data integrity and purpose limitation, (6) access and (7)
-recourse, enforcement and liability with respect to all Personal Data
-received from within the EU and Switzerland in reliance on the Privacy
-Shield. The Privacy Shield Principles require that we remain potentially
-liable if any third party processing subject Personal Data on our behalf
-fails to comply with these Privacy Shield Principles (except to the
-extent we are not responsible for the event giving rise to any alleged
-damage). ][QUANTU][\'s compliance with the Privacy Shield
-is subject to the investigatory and enforcement powers of the U.S.
-Federal Trade Commission.
-
-Please contact us with any questions or concerns relating to our
-Privacy Shield Certification. If you do not receive timely
-acknowledgment of your Privacy Shield-related complaint from us, or if
-we have not resolved your complaint, you may also resolve a Privacy
-Shield-related complaint through JAMS, an alternative dispute resolution
-provider located in the United States. You can visit
-][[https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim](https://www.google.com/url?q=https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim&sa=D&source=editors&ust=1641671077769000&usg=AOvVaw3gxOoMZGqYPd__ZIj0k1j0)
-][for more information or to file a complaint, at no cost to you.
-Under certain conditions, you may also be entitled to invoke binding
-arbitration for complaints not resolved by other means.
-
-## [11. GDPR] 
-
-For this GDPR section, we use the terms \"Personal Data\" and
-\"processing\" as they are defined in the GDPR, but \"Personal Data\"
-generally means information that can be used to individually identify a
-person, and \"processing\" generally covers actions that can be
-performed in connection with data such as collection, use, storage and
-disclosure. ][QUANTU][ will be the controller of your
-Personal Data processed in connection with the Sites. Note that we may
-also process Personal Data of our customers\' end users or employees in
-connection with our provision of services to customers, in which case we
-are the processor of Personal Data. If we are the processor of your
-Personal Data (i.e., not the controller), please contact the controller
-party in the first instance to address your rights with respect to such
-data.
-
-If there are any conflicts between this section and any other provision
-of this Privacy Policy, the policy or portion that is more protective of
-Personal Data shall control to the extent of such conflict. If you have
-any questions about this section or whether any of the following applies
-to you, please contact us.
-
-What Personal Data Do We Collect From You?][ We collect Personal
-Data about you when you provide such information directly to us, when
-third parties such as our business partners or service providers provide
-us with Personal Data about you, or when Personal Data about you is
-automatically collected in connection with your use of our Sites.
-
-Information we collect directly from you:][ We receive Personal
-Data directly from you when you provide us with such Personal Data,
-including without limitation the following:
-
--   [Required:
-
-```{=html}
-<!-- -->
-```
--   [First and last name
--   [Email address
--   [Birthdate
--   [IP address(es)
--   [Gender
--   [Spoken Language(s)
--   [City and Country of Residence
-
-```{=html}
-<!-- -->
-```
--   [Optional:
-
-```{=html}
-<!-- -->
-```
--   [Academic Interests
--   [Facts about employment history and career
--   [Facts about education history and career
--   [General location
-
-Information we receive from third party sources:][ Some third
-parties such as our business partners and service providers provide us
-with Personal Data about you, such as the following:
-
--   [Account information for third party services: If you interact with
-    a third party service when using our Sites, such as if you use a
-    third party service to log-in to our Sites (e.g., Facebook, Google,
-    or Instagram), or if you share content from our Sites through a
-    third party social media service, the third party service will send
-    us information about you, such as information from your public
-    profile, if the third party service and your account settings allow
-    such sharing. The information we receive will depend on the policies
-    and your account settings with the third party service.
-
-Information we automatically collect when you use our
-Sites:][ Some Personal Data is automatically collected when you use
-our Sites, such as the following:
-
--   [IP address
--   [Device identifiers
--   [Web browser information
--   [Page view statistics
--   [Browsing history
--   [Usage information
--   [Transaction information (e.g. transaction amount, date and time
-    such transaction occurred)
--   [Cookies and other tracking technologies (e.g. web beacons, pixel
-    tags, SDKs, etc.) --- For more information, please review our Cookie
-    Policy.
--   [Location inferred from your IP address
--   [Log data (e.g. access times, hardware and software
-    information)
-
-How Do We Use Your Personal Data?][ We process Persona Data to
-operate, improve, understand and personalize our Sites. For example, we
-use Personal Data to:
-
--   [Create and manage user profiles
--   [Communicate with you about the Sites
--   [Process orders
--   [Contact you about Site announcements, updates or offers
--   [Provide support and assistance for the Sites
--   [Personalize website content and communications based on your
-    preferences
--   [Meet contract or legal obligations
--   [Respond to user inquiries
--   [Fulfill user requests
--   [Comply with our legal or contractual obligations
--   [Resolve disputes
--   [Protect against or deter fraudulent, illegal or harmful
-    actions
--   [Enforce our Terms and Conditions
-
-We will only process your Personal Data if we have a lawful basis for
-doing so. Lawful bases for processing include consent, contractual
-necessity and our \"legitimate interests\" or the legitimate interest of
-others, as further described below.
-
--   [Contractual Necessity: We process the following categories of
-    Personal Data as a matter of \"contractual necessity\", meaning that
-    we need to process the data to perform under our Terms and
-    Conditions with you, which enables us to provide you with the Sites.
-    When we process data due to contractual necessity, failure to
-    provide such Personal Data will result in your inability to use some
-    or all portions of the Sites that require such data.
-
-```{=html}
-<!-- -->
-```
--   [First and last name
--   [Email address
--   [Birthdate
--   [Mailing address
--   [Telephone number
--   [Facts about education history and career
--   [General location
-
-```{=html}
-<!-- -->
-```
--   [Legitimate Interest: We process the following categories of
-    Personal Data when we believe it furthers the legitimate interest of
-    us or third parties.
-
-```{=html}
-<!-- -->
-```
--   [First and last name
--   [Email address
--   [Birthdate
--   [IP address(es)
--   [Examples of these legitimate interests include:
-
-```{=html}
-<!-- -->
-```
--   [Operation and improvement of our business, products and
-    services
--   [Marketing of our products and services
--   [Provision of customer support
--   [Protection from fraud or security threats
--   [Compliance with legal obligations
--   [Completion of corporate transactions
-
-```{=html}
-<!-- -->
-```
--   [Consent: In some cases, we process Personal Data based on the
-    consent you expressly grant to us at the time we collect such data.
-    When we process Personal Data based on your consent, it will be
-    expressly indicated to you at the point and time of
-    collection.
--   [Other Processing Grounds: From time to time we may also need to
-    process Personal Data to comply with a legal obligation, if it is
-    necessary to protect the vital interests of you or other data
-    subjects, or if it is necessary for a task carried out in the public
-    interest.
-
-How and With Whom Do We Share Your Data?][ We share Personal Data
-with vendors, third party service providers and agents who work on our
-behalf and provide us with services related to the purposes described in
-this Privacy Policy or our Terms and Conditions. These parties
-include:
-
--   [Payment processors
--   [Ad networks
--   [Analytics service providers
--   [Services to provide customer support
--   [Hosting service providers
-
-We also share Personal Data when necessary to complete a transaction
-initiated or authorized by you or provide you with a product or service
-you have requested. In addition to those set forth above, these parties
-also include:
-
--   [Other users (where you post information publicly or as otherwise
-    necessary to effect a transaction initiated or authorized by you
-    through the Sites)
--   [Social media services (if you interact with them through your use
-    of the Sites)
--   [Other parties authorized by you
-
-We also share information with third parties when you have given us
-consent to do so (as indicated at the point such information is
-collected).
-
-We also share Personal Data when we believe it is necessary to:
-
--   [Comply with applicable law or respond to valid legal process,
-    including from law enforcement or other government agencies
--   [Protect us, our business or our users, for example to enforce our
-    Terms and Conditions, prevent spam or other unwanted communications
-    and investigate or protect against fraud
--   [Maintain the security of our products and services
--   [Provide a service directly authorized and requested by you, the end
-    user
-
-Furthermore, if we choose to buy or sell assets, user information is
-typically one of the transferred business assets. Moreover, if we, or
-substantially all of our assets, were acquired, or if we go out of
-business or enter bankruptcy, user information would be one of the
-assets that is transferred or acquired by a third party, and we would
-share Personal Data with the party that is acquiring our assets. You
-acknowledge that such transfers may occur, and that any acquirer of us
-or our assets may continue to use your Personal Information as set forth
-in this policy.
-
-How Long Do We Retain Your Personal Data?][ We retain Personal
-Data about you as long as you have an open account with us or as
-otherwise necessary to provide you Services. In some cases we retain
-Personal Data for longer, if doing so is necessary to comply with our
-legal obligations, resolve disputes or collect fees owed, or is
-otherwise permitted or required by applicable law, rule or regulation.
-Afterwards, we retain some information in a depersonalized or aggregated
-form but not in a way that would identify you personally.
-
-What Security Measures Do We Use?][ We seek to protect Personal
-Data using appropriate technical and organizational measures based on
-the type of Personal Data and applicable processing activity. For
-example, we encrypt all data in-transit, obfuscate and anonymize data
-that we share with processors like analytics services, and maintain all
-services with security patches in a timely manner. We also require that
-our suppliers protect such information from unauthorized access, use,
-and disclosure.
-
-Personal Data of Children:][ We do not knowingly collect or
-solicit Personal Data from anyone under the age of 16. If you are under
-16, please do not attempt to register for the Sites or send any Personal
-Data about yourself to us. If we learn that we have collected Personal
-Data from a child under age 16, we will delete that information as
-quickly as possible. If you believe that a child under 16 may have
-provided us Personal Data, please contact us.
-
-What Rights Do You Have Regarding Your Personal Data?][ You have
-certain rights with respect to your Personal Data, including those set
-forth below. For more information about these rights, or to submit a
-request, please contact us. Please note that in some circumstances, we
-may not be able to fully comply with your request, such as if it is
-frivolous or extremely impractical, if it jeopardizes the rights of
-others, or if it is not required by law, but in those circumstances, we
-will still respond to notify you of such a decision. In some cases, we
-may also need to you to provide us with additional information, which
-may include Personal Data, if necessary to verify your identity and the
-nature of your request.
-
--   [Access: You can request more information about the Personal Data we
-    hold about you and request a copy of such Personal Data. You can
-    also access your Personal Data by visiting Account \> Export your
-    data.
--   [Rectification: If you believe that any Personal Data we are holding
-    about you is incorrect or incomplete, you can request that we
-    correct or supplement such data. In certain circumstances, you can
-    correct some of this information directly by either updating
-    directly in the relevant Account \> Export your data.
--   [Erasure: You can request that we erase some or all of your Personal
-    Data from our systems.
--   [Withdrawal of Consent: If we are processing your Personal Data
-    based on your consent (as indicated at the time of collection of
-    such data), you have the right to withdraw your consent at any time.
-    Please note, however, that if you exercise this right, you may have
-    to then provide express consent on a case-by-case basis for the use
-    or disclosure of certain of your Personal Data, if such use or
-    disclosure is necessary to enable you to utilize some or all of our
-    Sites.
--   [Portability: You can ask for a copy of your Personal Data in a
-    machine-readable format. You can also request that we transmit the
-    data to another controller where technically feasible.
--   [Objection: You can contact us to let us know that you object to the
-    further use or disclosure of your Personal Data for certain
-    purposes.
--   [Restriction of Processing: You can ask us to restrict further
-    processing of your Personal Data.
-
-Right to File Complaint: You have the right to lodge a complaint about
-][QUANTU][\'s practices with respect to your Personal Data
-with the supervisory authority of your country or EU Member State.
-
-## [12. Changes to this Privacy Statement] 
-
-QUANTU may amend this Privacy Statement from time to time. Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our website, or via the Service, or sending you an email. Users are bound by any changes to the Privacy Statement when he or she uses the Service after such changes have been first posted.
-
-## 13. Questions or Concerns
-
-If you have any questions or concerns regarding privacy, please send us a detailed message. We will make every effort to resolve your concerns.
+- __Service__ refers to the Website.
 
+- __Service Provider__ means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.
+	
 
+- __Usage Data__ refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+
+- __Website__ refers to QUANTU, accessible from [https://quantu.app](https://quantu.app)
+
+- __You__ means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+
+
+
+# Collecting and Using Your Personal Data
+
+## Types of Data Collected
+
+### Personal Data
+
+While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
+
+- Email address
+- First name and last name
+
+- Address, State, Province, ZIP/Postal code, City
+
+
+- Usage Data
+
+
+
+### Usage Data
+
+Usage Data is collected automatically when using the Service.
+
+Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
+
+We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
+
+
+
+
+
+
+### Tracking Technologies and Cookies
+
+We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service. The technologies We use may include:
+
+- __Cookies or Browser Cookies.__ A cookie is a small file placed on Your Device. You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service. Unless you have adjusted Your browser setting so that it will refuse Cookies, our Service may use Cookies.
+- __Flash Cookies.__ Certain features of our Service may use local stored objects (or Flash Cookies) to collect and store information about Your preferences or Your activity on our Service. Flash Cookies are not managed by the same browser settings as those used for Browser Cookies. For more information on how You can delete Flash Cookies, please read "Where can I change the settings for disabling, or deleting local shared objects?" available at [https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html#main_Where_can_I_change_the_settings_for_disabling__or_deleting_local_shared_objects_](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html#main_Where_can_I_change_the_settings_for_disabling__or_deleting_local_shared_objects_)
+- __Web Beacons.__ Certain sections of our Service and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of a certain section and verifying system and server integrity).
+
+Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on Your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close Your web browser. Learn more about cookies: [Use of Cookies by Free Privacy Policy](https://www.freeprivacypolicy.com/blog/sample-privacy-policy-template/#Use_Of_Cookies_And_Tracking).
+
+We use both Session and Persistent Cookies for the purposes set out below:
+
+- __Necessary / Essential Cookies__
+
+	Type: Session Cookies
+
+	Administered by: Us
+
+	Purpose: These Cookies are essential to provide You with services available through the Website and to enable You to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that You have asked for cannot be provided, and We only use these Cookies to provide You with those services.
+- __Cookies Policy / Notice Acceptance Cookies__
+
+	Type: Persistent Cookies
+
+	Administered by: Us
+
+	Purpose: These Cookies identify if users have accepted the use of cookies on the Website.
+- __Functionality Cookies__
+
+	Type: Persistent Cookies
+
+	Administered by: Us
+
+	Purpose: These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website.
+
+
+
+For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy or the Cookies section of our Privacy Policy.
+
+
+## Use of Your Personal Data
+
+The Company may use Personal Data for the following purposes:
+
+- __To provide and maintain our Service__, including to monitor the usage of our Service.
+- __To manage Your Account:__ to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
+- __For the performance of a contract:__ the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.
+- __To contact You:__ To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
+- __To provide You__ with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.
+- __To manage Your requests:__ To attend and manage Your requests to Us.
+
+- __For business transfers:__ We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.
+- __For other purposes__: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience. 
+
+We may share Your personal information in the following situations:
+
+- __With Service Providers:__ We may share Your personal information with Service Providers to monitor and analyze the use of our Service,  to contact You.
+- __For business transfers:__ We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
+- __With Affiliates:__ We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.
+- __With business partners:__ We may share Your information with Our business partners to offer You certain products, services or promotions.
+- __With other users:__ when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside. 
+- __With Your consent__: We may disclose Your personal information for any other purpose with Your consent.
+
+## Retention of Your Personal Data
+
+The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.
+
+## Transfer of Your Personal Data
+
+Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
+
+Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.
+
+The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
+
+## Disclosure of Your Personal Data
+
+### Business Transactions
+
+If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
+
+### Law enforcement
+
+Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+### Other legal requirements
+
+The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
+
+- Comply with a legal obligation
+- Protect and defend the rights or property of the Company
+- Prevent or investigate possible wrongdoing in connection with the Service
+- Protect the personal safety of Users of the Service or the public
+- Protect against legal liability
+
+## Security of Your Personal Data
+
+The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
+
+
+
+
+
+
+
+
+
+
+
+
+# Children's Privacy
+
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
+
+If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
+
+
+
+
+
+
+# Links to Other Websites
+
+Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+# Changes to this Privacy Policy
+
+We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
+
+We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+# Contact Us
+
+If you have any questions about this Privacy Policy, You can contact us:
+
+
+- By email: contact@quantu.app
